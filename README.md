@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @haCkd0t
-- 👀 I’m interested in web penitration, web development, 
+- 👀 I’m interested in Automation, 
 - 🌱 I’m currently learning whatever comes in my mind
 - 💞️ I’m looking for someone to teach me by their experince and knowledge
 
